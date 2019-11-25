@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823758851630",
+    "firebase_url": "https://modern-academy-bbc48.firebaseio.com",
+    "project_id": "modern-academy-bbc48",
+    "storage_bucket": "modern-academy-bbc48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823758851630:android:0c15d0fd510963ee7859bf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823758851630-h0eik9vcbpgte0gb04b67cvs1sv0tjel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWUbr1YD1K0sjfIWh6yRVMi9lgAE4OTbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823758851630-h0eik9vcbpgte0gb04b67cvs1sv0tjel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
